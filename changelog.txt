@@ -1,0 +1,57 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-12-27
+  Configuration changes:
+    - Check the README in the GitHub repo for further details of configuration changes made by this modpack
+    - AAI Industry:
+      - Disable wide drill (using Bob's Mining instead)
+    - Bio Industries:
+      - Disable Solar Additions
+      - Disable Bio Fuel
+      - Disable Bio Cannon
+      - Disable show musk floor in map view
+      - Disable Bigger wooden chests
+      - Disable all game tweaks except tree collision box
+    - Combat mechanics overhaul:
+      - Change all the multipliers set over 100% to 100%
+    - Even Distribution:
+      - Disable inventory cleanup feature
+    - Project Cybersyn:
+      - Enable the indev user interface
+  Mods added:
+    - aai-containers
+    - aai-industry
+    - aai-signal-transmission
+    - Advanced-Electric-Revamped-v16
+    - alien-biomes
+    - alien-biomes-hr-terrain
+    - artillery-bombardment-remote-reloaded
+    - Bio_Industries
+    - bobassembly
+    - bobinserters
+    - boblogistics
+    - bobmining
+    - botReplacer
+    - cargo-ships
+    - cargo-ships-graphics
+    - combat-mechanics-overhaul
+    - compaktcircuit
+    - cybersyn
+    - equipment-gantry
+    - even-distribution
+    - FluidMustFlow
+    - InserterFuelLeech
+    - miniloader
+    - More_Ammo
+    - Nanobots
+    - nixie-tubes
+    - puppy-bobs-logistics-fix
+    - railloader
+    - reskins-bobs
+    - Squeak Through
+    - train-upgrader
+  Optional mods added:
+    - factorissimo-2-notnotmelon
+    - Transport_Drones
+  Uploaded by:
+    - timspeedle
