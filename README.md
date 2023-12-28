@@ -23,6 +23,7 @@ The indev UI screen is enabled.
 * [AAI Containers & Warehouses](https://mods.factorio.com/mod/aai-containers)
 * [AAI Industry](https://mods.factorio.com/mod/aai-industry)
 * [AAI Signal Transmission](https://mods.factorio.com/mod/aai-signal-transmission)
+* [Advanced Fluid Handling](https://mods.factorio.com/mod/underground-pipe-pack)
 * [Advanced Solar HR](https://mods.factorio.com/mod/Advanced-Electric-Revamped-v16)
 * [Alien Biomes](https://mods.factorio.com/mod/alien-biomes)
 * [Alien Biomes High-Res Terrain](https://mods.factorio.com/mod/alien-biomes-hr-terrain)
@@ -48,6 +49,7 @@ The indev UI screen is enabled.
 * [Nixie Tubes](https://mods.factorio.com/mod/nixie-tubes)
 * [Project Cybersyn - Logistics Train Dispatcher](https://mods.factorio.com/mod/cybersyn)
 * [Puppy's Bob's Assemblers fix](https://mods.factorio.com/mod/puppy-bobs-logistics-fix)
+* [Repair Turret](https://mods.factorio.com/mod/Repair_Turret)
 * [Robot Replacer](https://mods.factorio.com/mod/botReplacer)
 * [Robot Replacer - Compatibility Fix](https://mods.factorio.com/mod/botReplacer-compatibility-fix)
 * [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
@@ -57,4 +59,5 @@ The indev UI screen is enabled.
 The following mods are included as optional dependencies. I do enjoy the gameplay changes that they offer, but they are relatively drastic changes, and so sometimes I won't use them. Personally, it depends on the mechanics introduced by the other modpacks in the playthrough.
 
 * [Factorissimo 2 - notnotmelon fork](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
+* [Power Armor MK3](https://mods.factorio.com/mod/Power%20Armor%20MK3) - [Krastorio 2](https://mods.factorio.com/mod/Krastorio2) is marked as not compatible with this mod, so this is optional
 * [Transport Drones](https://mods.factorio.com/mod/Transport_Drones)

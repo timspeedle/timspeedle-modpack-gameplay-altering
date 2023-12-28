@@ -2,7 +2,7 @@
   "name": "timspeedle-modpack-gameplay-altering",
   "author": "timspeedle",
   "contact": "Discord: timspeedle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "factorio_version": "1.1",
   "homepage": "https://github.com/timspeedle/timspeedle-modpack-gameplay-altering",
   "title": "Timspeedle's curated list of gameplay-altering mods",
@@ -38,10 +38,13 @@
     "nixie-tubes >= 1.1.4",
     "puppy-bobs-logistics-fix >= 0.1.2",
     "railloader >= 1.1.6",
+    "Repair_Turret >= 1.0.3",
     "reskins-bobs >= 2.1.6",
     "Squeak Through >= 1.8.2",
     "train-upgrader >= 1.0.5",
+    "underground-pipe-pack >= 1.1.2",
     "? factorissimo-2-notnotmelon >= 1.2.3",
+    "? Power Armor MK3 >= 0.4.3",
     "? Transport_Drones >= 1.0.14"
   ]
 }

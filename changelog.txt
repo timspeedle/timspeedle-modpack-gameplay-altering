@@ -1,4 +1,21 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2023-12-27
+  Mods added:
+    - Repair_Turret
+    - underground-pipe-pack
+  Optional mods added:
+    - Power Armor MK3 (K2 marked as not compatible with this mod)
+  Uploaded by:
+    - timspeedle
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2023-12-27
+  Mods added:
+    - botReplacer-compatibility-fix
+  Uploaded by:
+    - timspeedle
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2023-12-27
   Configuration changes:
@@ -53,12 +70,5 @@ Date: 2023-12-27
   Optional mods added:
     - factorissimo-2-notnotmelon
     - Transport_Drones
-  Uploaded by:
-    - timspeedle
----------------------------------------------------------------------------------------------------
-Version: 1.0.1
-Date: 2023-12-27
-  Mods added:
-    - botReplacer-compatibility-fix
   Uploaded by:
     - timspeedle
