@@ -49,6 +49,7 @@ The indev UI screen is enabled.
 * [Project Cybersyn - Logistics Train Dispatcher](https://mods.factorio.com/mod/cybersyn)
 * [Puppy's Bob's Assemblers fix](https://mods.factorio.com/mod/puppy-bobs-logistics-fix)
 * [Robot Replacer](https://mods.factorio.com/mod/botReplacer)
+* [Robot Replacer - Compatibility Fix](https://mods.factorio.com/mod/botReplacer-compatibility-fix)
 * [Squeak Through](https://mods.factorio.com/mod/Squeak%20Through)
 * [Train Upgrader](https://mods.factorio.com/mod/train-upgrader)
 

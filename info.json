@@ -22,6 +22,7 @@
     "boblogistics = 1.1.6",
     "bobmining = 1.1.6",
     "botReplacer >= 1.1.2",
+    "botReplacer-compatibility-fix >= 1.0.0",
     "cargo-ships >= 0.2.6",
     "cargo-ships-graphics >= 0.2.1",
     "combat-mechanics-overhaul >= 0.6.24",

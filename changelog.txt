@@ -55,3 +55,10 @@ Date: 2023-12-27
     - Transport_Drones
   Uploaded by:
     - timspeedle
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2023-12-27
+  Mods added:
+    - botReplacer-compatibility-fix
+  Uploaded by:
+    - timspeedle
